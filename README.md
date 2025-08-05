@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🐱 猫咪大战争自动化战斗脚本</h1>
+  <h1>🐱 Battle Cat Script</h1>
   <div>
     <a >English</a> | 
     <a href="https://github.com/Kamio-Misuzu/Battle_Cat_Script/blob/main/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E.md">简体中文</a> 
@@ -12,8 +12,26 @@
 
 
 
-### 说明
-- 自动点击"战斗开始!!","OK"等按钮
-- 没体力战斗自动补充
-- 优先点击"是"的按钮, 确保能够通关
-- 主要战斗选猫部分依靠的还是游戏内"猫咪AI"
+### Instructions
+- Automatically clicks buttons like "Battle Start!!", "OK", etc.
+
+- Automatically replenishes stamina when it runs out
+
+- Prioritizes clicking "Yes" buttons to ensure successful stage completion
+
+- The main battle team selection relies on the in-game "Cat CPU" feature
+
+- Ensures that using "Cat CPU" can clear the stage
+
+- For other servers (e.g., Japanese version), simply replace the button images
+
+### How to Use
+- Ensure your computer can run Python
+
+- Connect your phone to the computer via USB
+
+- Select target chapter
+
+- Run python main.py
+
+- Leave it running—no further input needed
