@@ -2,7 +2,7 @@
   <h1>🐱 猫咪大战争自动化战斗脚本</h1>
   <div>
     <a >English</a> | 
-    <a href="https://github.com/Kamio-Misuzu/Battle_Cat_Script/tree/main">简体中文</a> 
+    <a href="https://github.com/Kamio-Misuzu/Battle_Cat_Script/blob/main/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E.md">简体中文</a> 
   </div>
   <p>
     <img src="https://img.shields.io/github/stars/Kamio-Misuzu/Battle_Cat_Script?style=social" alt="stars">
