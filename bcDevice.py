@@ -41,5 +41,6 @@ class BCDevice:
             return False
 
 
-# 全局设备实例
+
 device = BCDevice()
+
