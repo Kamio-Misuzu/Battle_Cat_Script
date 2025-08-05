@@ -22,9 +22,8 @@ console_handler.setLevel(logging.INFO)
 logging.root.addHandler(console_handler)
 
 def getLogger(name):
-    """获取指定名称的日志记录器"""
     return logging.getLogger('bc.' + name)
 
-# 初始化日志
 logger = getLogger('main')
+
 logger.info('Battle Cats Script Initialized')
