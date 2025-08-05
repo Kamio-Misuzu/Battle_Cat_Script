@@ -1,2 +1,19 @@
-# Battle_Cat_Script
-🐱 猫咪大战争自动化战斗脚本
+<div align="center">
+  <h1>🐱 猫咪大战争自动化战斗脚本</h1>
+  <div>
+    <a >English</a> | 
+    <a href="https://github.com/Kamio-Misuzu/Battle_Cat_Script/tree/main">简体中文</a> 
+  </div>
+  <p>
+    <img src="https://img.shields.io/github/stars/Kamio-Misuzu/Battle_Cat_Script?style=social" alt="stars">
+    <img src="https://img.shields.io/github/forks/Kamio-Misuzu/Battle_Cat_Script?style=social" alt="forks">
+  </p>
+</div>
+
+
+
+### 说明
+- 自动点击"战斗开始!!","OK"等按钮
+- 没体力战斗自动补充
+- 优先点击"是"的按钮, 确保能够通关
+- 主要战斗选猫部分依靠的还是游戏内"猫咪AI"
